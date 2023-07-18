@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\Aniket\\Desktop\\calender jar\\jcalendar-tz-1.3.3-4 (1).jar"
+		]
+	}
+}
