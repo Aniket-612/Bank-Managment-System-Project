@@ -1,2 +1,2 @@
 # Bank-Managment-System-Project
-I have successfully comleted my bank managment system using Java 
+Hi , I am Aniket and I have successfully implemented my bank managment system project using Java
